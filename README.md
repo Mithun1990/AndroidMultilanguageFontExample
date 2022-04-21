@@ -16,4 +16,13 @@
         <item name="fontFamily">@font/ja_regular</item>
     </style>
 ```
-4.
+4.Then, use the FontRegular style in xml fil where needed
+```xml
+    <TextView
+        android:id="@+id/textView"
+        style="@style/FontRegular"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_one"
+      />
+```
