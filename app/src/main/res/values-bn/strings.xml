@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidMultilanguageFontExample</string>
+    <string name="title_one">গতকাল বুধবার গভীর রাতে এক বৈঠকে ঢাকা কলেজের শিক্ষার্থী ও নিউমার্কেট এলাকায় ব্যবসায়ী ও দোকানকর্মীদের মধ্যে সমঝোতা হয়েছে বলে জানিয়েছেন সংশ্লিষ্টরা। এর ভিত্তিতে আজ নিউমার্কেটের দোকানগুলো খুলতে শুরু করেছে।</string>
+    <string name="title_two">এটা দিতীয় টাইটেল</string>
+    <string name="title_three">এটা তৃতীয় টাইটেল</string>
+</resources>
